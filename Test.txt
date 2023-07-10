@@ -1,2 +1,4 @@
 PRIMEIRO COMMIT
 SEGUNDO COMMIT
+
+git checkout -b nome-da-branch
